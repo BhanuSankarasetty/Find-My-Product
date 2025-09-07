@@ -69,5 +69,5 @@ This project focuses on building a **scalable, user-friendly platform** that bri
 
 ## 🚀 Vision
 
-The goal of FYP is to **empower local commerce** by making product availability transparent and accessible.  
-It enables **buyers** to quickly find the best deals nearby, while giving **vendors** a digital platform to showcase their products.  
+- The goal of FYP is to **empower local commerce** by making product availability transparent and accessible.  
+- It enables **buyers** to quickly find the best deals nearby, while giving **vendors** a digital platform to showcase their products.  
