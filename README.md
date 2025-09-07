@@ -5,6 +5,16 @@
 **Category:** Full Stack Development / Local Product Discovery Platform  
 **Purpose:** Product discovery & vendor availability search  
 
+--- 
+
+## 🛑 Problem Statement
+
+One day, my father and I visited the city of Guntur. On our return, we had very little time, and my father needed to buy some medicine. We didn’t know if the medicine was available, or which nearby store had it.
+
+This scenario highlighted the challenge of finding products quickly and efficiently in local markets, especially when time is limited.
+
+Find My Product (FMP) aims to solve this by providing a real-time, location-based product discovery platform, making product availability transparent, accessible, and quick to search.
+
 ---
 
 ## 📖 Overview
@@ -42,9 +52,9 @@ This project focuses on building a **scalable, user-friendly platform** that bri
 
 **Tech Stack (Planned):**  
 - 🟢 Node.js + Express.js  
-- 🗄️ MongoDB (or PostgreSQL)  
+- 🗄️ MongoDB 
 - 🔑 JWT Authentication  
-- ⚡ Socket.io (optional for real-time updates)  
+- ⚡ Socket.io (for real-time updates)  
 
 **Features:**  
 - 🔐 **Authentication & Authorization** – Secure vendor/user login with role-based access.  
